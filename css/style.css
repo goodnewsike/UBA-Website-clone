@@ -17,9 +17,9 @@ nav.navbar {
   max-width: 100%;
   min-height: 10vh;
 }
-html:not([data-scroll='0']) body {
+/* html:not([data-scroll='0']) body {
   /*padding-top: 3em;*/
-}
+/*} */
 html:not([data-scroll='0']) nav.navbar {
   position: fixed;
   top: 0;
